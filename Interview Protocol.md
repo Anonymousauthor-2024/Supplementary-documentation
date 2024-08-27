@@ -18,7 +18,9 @@
 - Do you know about dangerous interactions between substances? Examples? How do you know that?
 - Do you know how to dose properly? How? Example?
 - How does your approach to drugs now differ from your earlier approach? Examples?
-- What info on a substance do you keep in your head? Example (Duration of acute effect, Cumulative Dose)? Why do you want to know? What do you remember about the substances you frequently use?
+- What info on a substance do you keep in your head? Example (Duration of acute effect, Cumulative Dose)? Why do you want to know?
+- What does privacy mean to you as a recreational drug user? How do you define privacy?
+- Have you ever had an experience where your privacy was compromised? How?
 
 # IT Interactions
 
@@ -26,7 +28,6 @@
 - The first time you tried to find info on a substance where did you look for it? Why? Do you look for info somewhere else? Why?
 - How do you know how much you consume? Do you test your substances for purity/adulterants? How? Why not? How do you dose your substances? Are there purity calculations involved?
 - What did you want to know about a new substance prior usage? How did you get this info? Did you get the info you wanted or was information missing, not accurate? What about looking up info on substances was frustrating? Does this happen often? Why? What information do you often have to skip to get to the info you actually care about?
-- Where would you prefer to find info? Laptop Website, Mobile Website, Mobile app?
 - What do you think can help you reduce harms associated with your substance use? Have you every proactively looked for harm reduction info? What did you look up and why?
 - How do you think the information you get when searching for information affects you specifically (in terms of usage, dosage, long-term usage plans, etc.)?
 - On a personal level, do you recognize that the development of information technology has increased the range of information you receive? Do you feel that this has had a positive or negative impact on you?
@@ -41,11 +42,9 @@
 - Do you use online avenues to trade drugs? If you have had such experiences, what kind of impact do you think this has had on you?
 - If you do or do not like buying drugs online, what kind of reasons are there?
 
-# Safety Concerns
+# Privacy Concerns
 
-- What does privacy mean to you as a recreational drug user? How do you define privacy?
-- Have you ever had an experience where your privacy was compromised? How?
-- Would you say you do anything in particular to maintain your privacy? What?
+- Would you say you do anything in particular to maintain your privacy when using IT? What?
 - How does your usage of your phone reflect your opinions about privacy?
 - Do you use some safety measures when browsing for drug-related information?
 - Do you worry about privacy breaches when using some apps, such as chat apps or apps specifically designed to record drug use? 
