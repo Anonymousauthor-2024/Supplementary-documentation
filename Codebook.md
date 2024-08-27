@@ -3,7 +3,6 @@
 ## A.1 Acute effect
 - A.1.1 Immediate impact
 - A.1.2 Physical discomfort
-- A.1.3 Rapid onset
 
 ## A.2 Physical health
 - A.2.1 Long term effect
@@ -26,16 +25,15 @@
 
 ## A.5 Privacy
 - A.5.1 Track
-- A.5.2 Personal Information
+- A.5.2 Personal information
 
-## B Impacts on safety
+## B Impacts on Safety
 
 ### B.1 Searching for Drug-Related Information
 - B.1.1 Change expectations
 - B.1.2 Dosage adjustment
 - B.1.3 Health awareness
-- B.1.4 Expectations
-- B.1.5 Increased Knowledge
+- B.1.4 Increased knowledge
 
 ### B.2 Asking Questions on Drug Use
 - B.2.1 Personalized advice
@@ -50,7 +48,7 @@
 - B.3.6 Trauma response
 - B.3.7 Emotional escape
 
-### B.4 Recording drug use
+### B.4 Recording Drug Use
 - B.4.1 Reminder dosage
 - B.4.2 Reminder unsafe mixing
 - B.4.3 Tracking consumption
@@ -66,7 +64,7 @@
 
 ### C.1 Redundancy of Information
 - C.1.1 Misperceptions
-- C.1.2 Not fit to individuals
+- C.1.2 Not fit for individuals
 - C.1.3 Wrong information
 - C.1.4 Unreliable dosage advice
 - C.1.5 Distorted realities
@@ -85,7 +83,7 @@
 ### C.4 Getting Deceived When Purchasing Online
 - C.4.1 Frauds
 - C.4.2 Mismatched expectations
-- C.4.3 Unability of test
+- C.4.3 Inability of test
 
 ## D Community Rules From Reddit
 
